@@ -9,6 +9,12 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
+        <module>Crowd-manager-api</module>
+        <module>Crowd-common</module>
+        <module>Crowd-bean</module>
+        <module>Crowd-manager-impl</module>
+        <module>Crowd-potal-api</module>
+        <module>Crowd-potal-impl</module>
         <module>Crowd-main</module>
     </modules>
 <dependencies>

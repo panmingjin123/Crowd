@@ -10,18 +10,18 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>Crowd-main</artifactId>
-    <dependencies>
-        <dependency>
-            <groupId>crowdhome</groupId>
-            <artifactId>Crowd-manager-impl</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>crowdhome</groupId>
-            <artifactId>Crowd-potal-impl</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
+    <artifactId>Crowd-potal-api</artifactId>
 
+<dependencies>
+    <dependency>
+        <groupId>crowdhome</groupId>
+        <artifactId>Crowd-common</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+        <groupId>crowdhome</groupId>
+        <artifactId>Crowd-bean</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </dependency>
+</dependencies>
 </project>

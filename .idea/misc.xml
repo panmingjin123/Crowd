@@ -5,6 +5,10 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Crowd-manager-api/pom.xml" />
+        <option value="$PROJECT_DIR$/Crowd-manager-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/Crowd-potal-api/pom.xml" />
+        <option value="$PROJECT_DIR$/Crowd-potal-impl/pom.xml" />
       </list>
     </option>
   </component>
