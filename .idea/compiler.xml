@@ -16,6 +16,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Crowd-main" target="1.5" />
       <module name="Crowdbean" target="1.5" />
       <module name="Crowdmanagerapi" target="1.5" />
       <module name="Crowdmanagerimpl" target="1.5" />
