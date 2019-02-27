@@ -6,8 +6,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Crowdmain" />
+        <module name="Crowd-bean" />
+        <module name="Crowd-common" />
+        <module name="Crowd-main" />
+        <module name="Crowd-manager-api" />
+        <module name="Crowd-manager-impl" />
+        <module name="Crowd-potal-api" />
+        <module name="Crowd-potal-impl" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Crowd-main" target="1.5" />
+      <module name="Crowdbean" target="1.5" />
+      <module name="Crowdmanagerapi" target="1.5" />
+      <module name="Crowdmanagerimpl" target="1.5" />
+      <module name="Crowdpotalapi" target="1.5" />
+      <module name="Crowdpotalimpl" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
