@@ -136,7 +136,15 @@
         <groupId>org.codehaus.jackson</groupId>
         <artifactId>jackson-mapper-asl</artifactId>
     </dependency>
+    <dependency>
+        <groupId>com.fasterxml.jackson.core</groupId>
+        <artifactId>jackson-core</artifactId>
 
+    </dependency>
+    <dependency>
+        <groupId>com.fasterxml.jackson.core</groupId>
+        <artifactId>jackson-databind</artifactId>
+    </dependency>
     <dependency>
         <groupId>org.apache.poi</groupId>
         <artifactId>poi</artifactId>
@@ -184,4 +192,7 @@
     </dependency>
 
 </dependencies>
+    <packaging>war</packaging>
+    <name>baike.common.tools Maven Webapp</name>
+    <url>http://maven.apache.org</url>
 </project>

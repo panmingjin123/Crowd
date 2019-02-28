@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-<a href="${pageContext.request.contextPath}/test.do">hello!</a>
+<a href="${pageContext.request.contextPath}/test.htm">hello!</a>
 </body>
 </html>
