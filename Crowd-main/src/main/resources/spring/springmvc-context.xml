@@ -14,19 +14,19 @@
     <!-- 字符串字符编码转换 -->
     <bean class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter" >
         <property name="messageConverters">
-	         <list>
-	             <bean class="org.springframework.http.converter.json.MappingJackson2HttpMessageConverter">
-	                <property name="supportedMediaTypes">
-	                      <list>
-	                          <value>application/json;charset=UTF-8</value>
-	                     </list>   
-	                </property>   
-	             </bean>   
-	         </list>   
-	    </property>
+            <list>
+                <bean class="org.springframework.http.converter.json.MappingJackson2HttpMessageConverter">
+                    <property name="supportedMediaTypes">
+                        <list>
+                            <value>application/json;charset=UTF-8</value>
+                        </list>
+                    </property>
+                </bean>
+            </list>
+        </property>
     </bean>
     
-    <context:component-scan base-package="com.atguigu.atcrowdfunding.manager.controller" use-default-filters="false">
+    <context:component-scan base-package="com.atguigu.atcrowdfunding.manager.*" use-default-filters="false">
         <context:include-filter type="annotation" expression="org.springframework.stereotype.Controller"/>
     </context:component-scan>
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver" id="resourceViewResolver">
@@ -34,13 +34,13 @@
         <property name="prefix" value="/WEB-INF/jsp/"></property>
         <property name="suffix" value=".jsp"></property>
     </bean>
-    
+
     <bean id="exceptionResolver" class="org.springframework.web.servlet.handler.SimpleMappingExceptionResolver">
-        <property name="exceptionMappings">  
+        <property name="exceptionMappings">
             <props>
                 <prop key="java.lang.Exception">error/error</prop>
-            </props>  
-        </property>  
+            </props>
+        </property>
     </bean>
 
     <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver" p:defaultEncoding="UTF-8">

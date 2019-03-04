@@ -6,24 +6,12 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a0eef43-0884-4400-9ae1-3f9a1972ac1c" name="Default Changelist" comment="页面跳转问题没解决，蛋疼">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Crowd_main_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Crowd_main_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8a0eef43-0884-4400-9ae1-3f9a1972ac1c" name="Default Changelist" comment="页面跳转问题没解决">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crowd-main/Crowd-main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Crowd-main/Crowd-main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crowd-main/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Crowd-main/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crowd-main/src/main/resources/mybatis/mapper-user.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Crowd-main/src/main/resources/mybatis/mapper-user.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crowd-main/src/main/resources/mybatis/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Crowd-main/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crowd-main/src/main/resources/spring/spring-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Crowd-main/src/main/resources/spring/spring-context.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Crowd-main/src/main/resources/spring/springmvc-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Crowd-main/src/main/resources/spring/springmvc-context.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Crowd-main/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Crowd-main/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crowd-main/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Crowd-main/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crowd-manager-api/src/main/java/com/atguigu/atcrowdfunding/manager/dao/TestDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Crowd-manager-api/src/main/java/com/atguigu/atcrowdfunding/manager/dao/TestDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crowd-manager-api/src/main/java/com/atguigu/atcrowdfunding/manager/service/TestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Crowd-manager-api/src/main/java/com/atguigu/atcrowdfunding/manager/service/TestService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Crowd-manager-impl/src/main/java/com/atguigu/atcrowdfunding/manager/controller/TestAtCrowd.java" beforeDir="false" afterPath="$PROJECT_DIR$/Crowd-manager-impl/src/main/java/com/atguigu/atcrowdfunding/manager/controller/TestAtCrowd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crowd-manager-impl/src/main/java/com/atguigu/atcrowdfunding/manager/service/impl/TestServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Crowd-manager-impl/src/main/java/com/atguigu/atcrowdfunding/manager/service/impl/TestServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crowd-manager-impl/src/main/resources/mybatis/mapper-user.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Crowd-main/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -45,8 +33,8 @@
       <file leaf-file-name="TestServiceImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Crowd-manager-impl/src/main/java/com/atguigu/atcrowdfunding/manager/service/impl/TestServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="380">
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,11 +45,29 @@
       <file leaf-file-name="TestAtCrowd.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Crowd-manager-impl/src/main/java/com/atguigu/atcrowdfunding/manager/controller/TestAtCrowd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+            <state relative-caret-position="228">
+              <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mybatis-config.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Crowd-main/src/main/resources/mybatis/mybatis-config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mapper-user.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Crowd-main/src/main/resources/mybatis/mapper-user.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -78,26 +84,8 @@
       <file leaf-file-name="springmvc-context.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Crowd-main/src/main/resources/spring/springmvc-context.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="28" column="87" selection-start-line="28" selection-start-column="87" selection-end-line="28" selection-end-column="87" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="579">
-              <caret line="62" column="25" selection-start-line="33" selection-start-column="12" selection-end-line="62" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Crowd-main/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2755">
-              <caret line="145" column="49" selection-start-line="145" selection-start-column="49" selection-end-line="145" selection-end-column="49" />
+            <state relative-caret-position="414">
+              <caret line="40" column="58" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -105,8 +93,8 @@
       <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Crowd-main/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="62" column="20" lean-forward="true" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
+            <state relative-caret-position="222">
+              <caret line="68" column="21" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -114,8 +102,8 @@
       <file leaf-file-name="TestDao.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Crowd-manager-api/src/main/java/com/atguigu/atcrowdfunding/manager/dao/TestDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="152">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -126,8 +114,8 @@
       <file leaf-file-name="spring-context.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Crowd-main/src/main/resources/spring/spring-context.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+            <state relative-caret-position="437">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
             </state>
           </provider>
         </entry>
@@ -167,18 +155,19 @@
         <option value="$PROJECT_DIR$/Crowd-main/src/main/webapp/WEB-INF/jsp/success.jsp" />
         <option value="$PROJECT_DIR$/Crowd-main/src/main/webapp/WEB-INF/classes/logging.properties" />
         <option value="$PROJECT_DIR$/Crowd-main/src/main/resources/jdbc.properties" />
-        <option value="$PROJECT_DIR$/Crowd-main/src/main/resources/mybatis/mapper-user.xml" />
         <option value="$PROJECT_DIR$/Crowd-manager-api/src/main/java/com/atguigu/atcrowdfunding/manager/service/TestService.java" />
         <option value="$PROJECT_DIR$/Crowd-manager-api/src/main/java/com/atguigu/atcrowdfunding/manager/dao/TestDao.java" />
         <option value="$PROJECT_DIR$/Crowd-main/src/main/resources/spring/spring-context.xml" />
         <option value="$PROJECT_DIR$/Crowd-main/src/main/resources/mybatis/mybatis-config.xml" />
-        <option value="$PROJECT_DIR$/Crowd-manager-impl/src/main/java/com/atguigu/atcrowdfunding/manager/service/impl/TestServiceImpl.java" />
         <option value="$PROJECT_DIR$/Crowd-main/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Crowd-manager-impl/src/main/java/com/atguigu/atcrowdfunding/manager/service/impl/TestServiceImpl.java" />
         <option value="$PROJECT_DIR$/Crowd-main/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/Crowd-main/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/Crowd-manager-impl/src/main/java/com/atguigu/atcrowdfunding/manager/controller/TestAtCrowd.java" />
         <option value="$PROJECT_DIR$/Crowd-main/src/main/resources/spring/springmvc-context.xml" />
+        <option value="$PROJECT_DIR$/Crowd-manager-impl/src/main/java/com/atguigu/atcrowdfunding/manager/controller/TestAtCrowd.java" />
+        <option value="$PROJECT_DIR$/Crowd-main/src/main/resources/mybatis/mapper-user.xml" />
+        <option value="$PROJECT_DIR$/Crowd-manager-impl/src/main/resources/mybatis/mapper-user.xml" />
       </list>
     </option>
   </component>
@@ -228,10 +217,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="46" />
+    <option name="x" value="45" />
     <option name="y" value="10" />
     <option name="width" value="1835" />
-    <option name="height" value="1105" />
+    <option name="height" value="1104" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -334,6 +323,51 @@
             <path>
               <item name="Crowd" type="b2602c69:ProjectViewProjectNode" />
               <item name="Crowd" type="462c0819:PsiDirectoryNode" />
+              <item name="Crowd-manager-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crowd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Crowd" type="462c0819:PsiDirectoryNode" />
+              <item name="Crowd-manager-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crowd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Crowd" type="462c0819:PsiDirectoryNode" />
+              <item name="Crowd-manager-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crowd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Crowd" type="462c0819:PsiDirectoryNode" />
+              <item name="Crowd-manager-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crowd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Crowd" type="462c0819:PsiDirectoryNode" />
+              <item name="Crowd-manager-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crowd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Crowd" type="462c0819:PsiDirectoryNode" />
+              <item name="Crowd-manager-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crowd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Crowd" type="462c0819:PsiDirectoryNode" />
               <item name="Crowd-manager-impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -395,6 +429,25 @@
             <path>
               <item name="Crowd" type="b2602c69:ProjectViewProjectNode" />
               <item name="Crowd" type="462c0819:PsiDirectoryNode" />
+              <item name="Crowd-manager-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+              <item name="TestServiceImpl" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="Crowd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Crowd" type="462c0819:PsiDirectoryNode" />
+              <item name="Crowd-manager-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crowd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Crowd" type="462c0819:PsiDirectoryNode" />
               <item name="Crowd-potal-api" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -407,10 +460,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551261765669" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Crowd-main/src/main/webapp/WEB-INF" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -531,7 +584,7 @@
       <workItem from="1551163450494" duration="2424000" />
       <workItem from="1551165909330" duration="30158000" />
       <workItem from="1551353294753" duration="628000" />
-      <workItem from="1551366319689" duration="2862000" />
+      <workItem from="1551366319689" duration="5095000" />
     </task>
     <task id="LOCAL-00001" summary="modudles之间的依赖关系完成">
       <created>1551083272111</created>
@@ -547,18 +600,25 @@
       <option name="project" value="LOCAL" />
       <updated>1551285791188</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="页面跳转问题没解决">
+      <created>1551371689846</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551371689846</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74690000" />
+    <option name="totallyTimeSpent" value="76923000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="37" y="8" width="1468" height="882" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50053304" side_tool="true" weight="0.32917964" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50130206" side_tool="true" weight="0.6823204" />
       <window_info anchor="bottom" id="Application Servers" order="12" sideWeight="0.49934897" weight="0.32872927" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.3294271" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
@@ -576,10 +636,10 @@
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32917964" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49946696" visible="true" weight="0.4654696" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.4986979" weight="0.45703125" />
       <window_info anchor="bottom" id="Spring" order="14" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32917964" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25716147" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2565337" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -592,6 +652,42 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="6" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Maven" order="3" weight="0.32995737" />
+      <window_info anchor="bottom" id="Application Servers" order="13" sideWeight="0.49934897" weight="0.32872927" />
+      <window_info id="Designer" order="0" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.4986979" visible="true" weight="0.31767955" />
+      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32917964" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50130206" side_tool="true" weight="0.6823204" />
+      <window_info anchor="bottom" id="Messages" order="15" sideWeight="0.49023438" weight="0.24033149" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32917964" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.3294271" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25716147" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -628,7 +724,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="modudles之间的依赖关系完成" />
     <MESSAGE value="页面跳转问题没解决，蛋疼" />
-    <option name="LAST_COMMIT_MESSAGE" value="页面跳转问题没解决，蛋疼" />
+    <MESSAGE value="页面跳转问题没解决" />
+    <option name="LAST_COMMIT_MESSAGE" value="页面跳转问题没解决" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -764,13 +861,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Crowd-manager-impl/src/main/resources/mybatis/mapper-user.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Crowd-manager-impl/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
@@ -799,20 +889,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Crowd-main/src/main/resources/mybatis/mapper-user.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Crowd-main/src/main/resources/mybatis/mybatis-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Crowd-manager-impl/target/classes/com/atguigu/atcrowdfunding/manager/controller/TestAtCrowd.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -827,30 +903,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Crowd-main/pom.xml">
+    <entry file="file://$PROJECT_DIR$/Crowd-main/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2755">
-          <caret line="145" column="49" selection-start-line="145" selection-start-column="49" selection-end-line="145" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Crowd-manager-api/src/main/java/com/atguigu/atcrowdfunding/manager/dao/TestDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Crowd-manager-impl/src/main/java/com/atguigu/atcrowdfunding/manager/service/impl/TestServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="247">
+          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -861,31 +917,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Crowd-main/src/main/resources/spring/spring-context.xml">
+    <entry file="file://$PROJECT_DIR$/Crowd-main/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        <state relative-caret-position="450">
+          <caret line="145" column="49" selection-start-line="145" selection-start-column="49" selection-end-line="145" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Crowd-main/src/main/webapp/index.jsp">
+    <entry file="file://$PROJECT_DIR$/Crowd-manager-impl/src/main/java/com/atguigu/atcrowdfunding/manager/service/impl/TestServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+        <state relative-caret-position="380">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Crowd-main/src/main/resources/spring/spring-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Crowd-main/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="62" column="20" lean-forward="true" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
+        <state relative-caret-position="222">
+          <caret line="68" column="21" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Crowd-main/src/main/resources/mybatis/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Crowd-manager-api/src/main/java/com/atguigu/atcrowdfunding/manager/dao/TestDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Crowd-manager-impl/src/main/resources/mybatis/mapper-user.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Crowd-main/src/main/resources/mybatis/mapper-user.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Crowd-manager-impl/src/main/java/com/atguigu/atcrowdfunding/manager/controller/TestAtCrowd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        <state relative-caret-position="228">
+          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -894,8 +991,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Crowd-main/src/main/resources/spring/springmvc-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="28" column="87" selection-start-line="28" selection-start-column="87" selection-end-line="28" selection-end-column="87" />
+        <state relative-caret-position="414">
+          <caret line="40" column="58" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
         </state>
       </provider>
     </entry>
@@ -953,7 +1050,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Web|Crowd-main</last-edited>
+          <last-edited>Crowd-manager-impl</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

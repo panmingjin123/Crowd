@@ -17,6 +17,7 @@ public class TestAtCrowd {
 
     @Autowired
     private TestService testService;
+
     @ResponseBody
     @RequestMapping(value = "/test",method = RequestMethod.GET)
     public String test(){

@@ -53,7 +53,7 @@
         <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
         <init-param>
             <param-name>contextConfigLocation</param-name>
-            <param-value>classpath*:spring/springmvc-context.xml</param-value>
+            <param-value>classpath:spring/springmvc-context.xml</param-value>
         </init-param>
         <!-- 值越小创建优先级越高，最小值为0，一旦对象被创建（构造器创建）了，tomcat容器组件。tomcat会调用隐匿方法，读取配置文件-->
         <load-on-startup>1</load-on-startup>
