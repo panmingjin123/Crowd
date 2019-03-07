@@ -6,9 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a0eef43-0884-4400-9ae1-3f9a1972ac1c" name="Default Changelist" comment="终于解决，回头看看怎么回事">
+    <list default="true" id="8a0eef43-0884-4400-9ae1-3f9a1972ac1c" name="Default Changelist" comment="接收">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crowd-manager-impl/src/main/java/com/atguigu/atcrowdfunding/manager/service/impl/TestServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Crowd-manager-impl/src/main/java/com/atguigu/atcrowdfunding/manager/service/impl/TestServiceImpl.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Crowd-main/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,7 +29,7 @@
       <file leaf-file-name="TestServiceImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Crowd-manager-impl/src/main/java/com/atguigu/atcrowdfunding/manager/service/impl/TestServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
+            <state relative-caret-position="304">
               <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -43,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/Crowd-manager-impl/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="380">
-              <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -60,7 +59,7 @@
       <file leaf-file-name="TestAtCrowd.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Crowd-manager-impl/src/main/java/com/atguigu/atcrowdfunding/manager/controller/TestAtCrowd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
+            <state relative-caret-position="304">
               <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -99,8 +98,8 @@
       <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Crowd-main/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="75" column="21" lean-forward="true" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
+            <state relative-caret-position="1425">
+              <caret line="75" column="21" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -109,7 +108,7 @@
         <entry file="file://$PROJECT_DIR$/Crowd-main/src/main/resources/jdbc.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
-              <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -117,14 +116,8 @@
       <file leaf-file-name="spring-context.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Crowd-main/src/main/resources/spring/spring-context.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
-              <folding>
-                <element signature="e#1327#1343#0" expanded="true" />
-                <element signature="e#1379#1392#0" expanded="true" />
-                <element signature="e#1425#1439#0" expanded="true" />
-                <element signature="e#1476#1494#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="152">
+              <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -438,17 +431,6 @@
               <item name="Crowd-manager-impl" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="manager" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-              <item name="TestServiceImpl" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="Crowd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Crowd" type="462c0819:PsiDirectoryNode" />
-              <item name="Crowd-manager-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -460,9 +442,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -595,6 +577,7 @@
       <workItem from="1551353294753" duration="628000" />
       <workItem from="1551366319689" duration="5095000" />
       <workItem from="1551711159955" duration="1762000" />
+      <workItem from="1551967718421" duration="245000" />
     </task>
     <task id="LOCAL-00001" summary="modudles之间的依赖关系完成">
       <created>1551083272111</created>
@@ -624,18 +607,25 @@
       <option name="project" value="LOCAL" />
       <updated>1551711290920</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="接收">
+      <created>1551967757796</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1551967757796</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78685000" />
+    <option name="totallyTimeSpent" value="78930000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50130206" side_tool="true" weight="0.6823204" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50130206" side_tool="true" weight="0.6809392" />
       <window_info anchor="bottom" id="Application Servers" order="12" sideWeight="0.49934897" weight="0.32872927" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.3294271" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
@@ -647,7 +637,6 @@
       <window_info id="UI Designer" order="1" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Messages" order="15" sideWeight="0.49023438" weight="0.24033149" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
@@ -656,10 +645,11 @@
       <window_info anchor="bottom" id="Run" order="7" sideWeight="0.4986979" weight="0.0" />
       <window_info anchor="bottom" id="Spring" order="14" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32917964" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24283855" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24283855" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="15" sideWeight="0.49023438" weight="0.24033149" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
@@ -743,7 +733,8 @@
     <MESSAGE value="页面跳转问题没解决，蛋疼" />
     <MESSAGE value="页面跳转问题没解决" />
     <MESSAGE value="终于解决，回头看看怎么回事" />
-    <option name="LAST_COMMIT_MESSAGE" value="终于解决，回头看看怎么回事" />
+    <MESSAGE value="接收" />
+    <option name="LAST_COMMIT_MESSAGE" value="接收" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -762,9 +753,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -942,7 +930,7 @@
     <entry file="file://$PROJECT_DIR$/Crowd-manager-impl/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
-          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -955,15 +943,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Crowd-main/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="75" column="21" lean-forward="true" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
+        <state relative-caret-position="1425">
+          <caret line="75" column="21" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Crowd-main/src/main/resources/jdbc.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -976,7 +964,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Crowd-manager-impl/src/main/java/com/atguigu/atcrowdfunding/manager/controller/TestAtCrowd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
+        <state relative-caret-position="304">
           <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -986,7 +974,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Crowd-manager-impl/src/main/java/com/atguigu/atcrowdfunding/manager/service/impl/TestServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
+        <state relative-caret-position="304">
           <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1003,14 +991,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Crowd-main/src/main/resources/spring/spring-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
-          <folding>
-            <element signature="e#1327#1343#0" expanded="true" />
-            <element signature="e#1379#1392#0" expanded="true" />
-            <element signature="e#1425#1439#0" expanded="true" />
-            <element signature="e#1476#1494#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="152">
+          <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
         </state>
       </provider>
     </entry>
