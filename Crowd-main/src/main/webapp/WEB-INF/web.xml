@@ -10,6 +10,9 @@
     <listener>
         <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
     </listener>
+    <listener>
+        <listener-class>com.atguigu.atcrowdfunding.listener.StartSystemListener</listener-class>
+    </listener>
     <context-param>
         <param-name>contextConfigLocation</param-name>
         <param-value>classpath*:spring/spring-*.xml</param-value>
@@ -32,8 +35,7 @@
     <filter-mapping>
         <filter-name>encoding</filter-name>
         <url-pattern>/*</url-pattern>
-        <dispatcher>FORWARD</dispatcher>
-        <dispatcher>REQUEST</dispatcher>
+
     </filter-mapping>
 
     <!--支持RESTful风格，将post请求转换为put、delete请求，会读取_method隐含参数-->

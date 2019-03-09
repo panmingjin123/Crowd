@@ -15,12 +15,5 @@
         <module name="Crowd-potal-impl" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Crowdbean" target="1.5" />
-      <module name="Crowdmanagerapi" target="1.5" />
-      <module name="Crowdmanagerimpl" target="1.5" />
-      <module name="Crowdpotalapi" target="1.5" />
-      <module name="Crowdpotalimpl" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
