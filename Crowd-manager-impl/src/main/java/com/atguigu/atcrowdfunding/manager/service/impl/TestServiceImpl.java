@@ -20,7 +20,7 @@ public class TestServiceImpl implements TestService {
     @Override
     public void insert() {
         Map map=new HashMap();
-        map.put("namewww","lii");
+        map.put("name","lii");
         testDao.insert(map);
     }
 }

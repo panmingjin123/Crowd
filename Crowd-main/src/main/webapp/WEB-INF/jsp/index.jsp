@@ -81,7 +81,7 @@
 
         /* 文章列表 */
         .newsList{padding:10px;text-align:left;}
-        .newsList li{background:url("../images/share/point.png") no-repeat 2px 14px; padding-left:10px;height:30px; line-height:30px;}
+        /*.newsList li{background:url("../images/share/point.png") no-repeat 2px 14px; padding-left:10px;height:30px; line-height:30px;}*/
         .newsList li a{display:inline-block;*display:inline;zoom:1;font-size:14px;}
         .newsList li .date{float:right; color:#999;}
         .newsList li.split{margin-bottom:10px;padding-bottom:10px;border-bottom:1px dotted #ddd;height:0px;line-height:0px;overflow:hidden;}
@@ -187,7 +187,7 @@
     <div class="container">
         <div class="row clearfix">
             <div class="col-md-12 column">
-                <div class="box ui-draggable" id="mainBox">
+                <div class="box ui-draggable" >
                     <div class="mHd" style="">
                         <div class="path">
                             <a href="projects.html">更多...</a>
@@ -293,7 +293,7 @@
     <div class="container">
         <div class="row clearfix">
             <div class="col-md-12 column">
-                <div class="box ui-draggable" id="mainBox">
+                <div class="box ui-draggable" >
                     <div class="mHd" style="">
                         <div class="path">
                             <a href="projects.html">更多...</a>
@@ -399,7 +399,7 @@
     <div class="container">
         <div class="row clearfix">
             <div class="col-md-12 column">
-                <div class="box ui-draggable" id="mainBox">
+                <div class="box ui-draggable">
                     <div class="mHd" style="">
                         <div class="path">
                             <a href="projects.html">更多...</a>
